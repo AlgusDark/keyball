@@ -1,0 +1,14 @@
+#pragma once
+
+#define TAP_CODE_DELAY 5
+
+#define TAPPING_TERM 170
+#define TAPPING_FORCE_HOLD
+#define IGNORE_MOD_TAP_INTERRUPT
+#define PERMISSIVE_HOLD
+/* #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD */
+
+/* #define AUTO_SHIFT_TIMEOUT 150 */
+/* #define NO_AUTO_SHIFT_ALPHA */
+
+/* #define COMBO_TERM 30 */
